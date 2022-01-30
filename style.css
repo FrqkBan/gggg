@@ -1,1 +1,58 @@
 
+body {
+    font-family: sans-serif;
+    background-color: rgba(101, 165, 209, 1)
+
+}
+
+h1 {
+    background-color: rgba(36, 87, 123, 1);
+    color: white;
+    padding: 10px;
+}
+
+img {
+    height: 200px;
+}
+
+p, ul {
+    font-size: 20px;
+    background-color: rgb(62, 148, 209, 1)
+;
+}
+
+footer {
+    margin: 20px;
+    background-color: rgba(36, 87, 123, 1);
+    border: 15px solid rgb(3, 81, 117);
+    
+}
+
+header a{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    border: 1px solid rgb(3, 81, 117);
+    background-color: rgb(3, 81, 117);
+    padding: 5px;
+    border-radius: 0px;
+
+}
+
+header img{
+    width: 60px;
+    height: 60px
+}
+
+h1 {
+text-align: center;
+font-size: smaller;
+
+
+}
+
+
+a {
+    color: black;
+    font-size: 20px;
+}
